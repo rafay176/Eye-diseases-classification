@@ -1,5 +1,4 @@
 # Eye-diseases-classification
-# Eye-diseases-classification
 
 This project focuses on the classification of eye diseases from retinal images using deep learning techniques.  
 The aim is to automatically identify different ocular conditions from medical images to support early diagnosis and analysis.
